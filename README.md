@@ -53,7 +53,7 @@ Accessibility with SpeechSynthesis API
 
 
 ---📸 Screenshots
-
+![screenshot](https://github.com/ArpitAnandSaxena/Dictionary-/tree/447ffb781cf37a852d0643791b784a6af3aa83fa/screenshot)
 
 
 ---🙌 Author
